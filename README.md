@@ -5,10 +5,10 @@
 ## :rocket:
 
 <p align="center">
-  <img src="" alt="FoodOrder">
+  <img src="https://github.com/rodrigovellinho/FoodOrder/blob/main/public/cover1.jpg?raw=true" alt="FoodOrder">
 </p>
 <p align="center">
-  <img src="" alt="FoodOrder">
+  <img src="https://github.com/rodrigovellinho/FoodOrder/blob/main/public/cover2.jpg?raw=true" alt="FoodOrder">
 </p>
 
 FoodOrder é um aplicativo de serviço de alimentação. O usuário pode solicitar seu pedido e o carrinho de compras guarda o pedido. No momento do checkout o usuaário insere o endereço e dados pessoais e poderá realizar o pedido.
@@ -36,6 +36,7 @@ yarn dev
 ## 🔨 Tecnologias:
 
 - **[ReactJS](https://reactjs.org/)**
+- **[Firebase](https://firebase.google.com/)**
 <br>
 
 ---
